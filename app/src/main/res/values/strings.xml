@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Buzz</string>
+    <string name="se_acab_para_ti_hermano_empieza_a_ropemaxxear">Se acabó para ti hermano,empieza a ropemaxxear</string>
+    <string name="eres_un_verdadero_chad_soldado_de_saselandia">Eres un verdadero chad soldado de saselandia</string>
+    <string name="mid_como_one_piece">Mid, como one piece</string>
+    <string name="imagen_de_la_pregunta">Imagen de la pregunta</string>
+    <string name="has_elegido_verdadero_y_la_respuesta_era_verdadero_correcto">Has elegido \"Verdadero\" y la respuesta era \"Verdadero\". ¡Correcto!</string>
+    <string name="has_elegido_verdadero_y_la_respuesta_era_falso_incorrecto">Has elegido \"Verdadero\" y la respuesta era \"Falso\". ¡Incorrecto!</string>
+    <string name="has_elegido_falso_y_la_respuesta_era_verdadero_incorrecto">Has elegido \"Falso\" y la respuesta era \"Verdadero\". ¡Incorrecto!</string>
+    <string name="has_elegido_falso_y_la_respuesta_era_falso_correcto">Has elegido \"Falso\" y la respuesta era \"Falso\". ¡Correcto!</string>
+    <string name="salir">Salir</string>
+    <string name="porcentaje_de_aciertos">Porcentaje de aciertos: %1$s</string>
+    <string name="resultado_de_tu_examen">Resultado de tu examen:</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+    <string name="random">Random</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Anterior</string>
+    <string name="quiz">Quiz</string>
+    <string name="speedrun">Speedrun</string>
+    <string name="examen">Examen</string>
+    <string name="a_adir_pregunta">Añadir pregunta</string>
+    <string name="escribe_una_pregunta">Escribe una pregunta</string>
+    <string name="jugar">Jugar</string>
+    <string name="escribir_pregunta">Escribir pregunta</string>
+    <string name="stats">Stats</string>
+    <string name="taps_totales">Taps totales:%1$d</string>
+    <string name="preguntas_totales">Preguntas totales:</string>
+    <string name="respuestas_correctas">Respuestas correctas: %1$d (%2$s%%)</string>
+    <string name="respuestas_incorrectas">Respuestas incorrectas: %1$d (%2$s%%)</string>
+    <string name="farmear_taps">Farmear taps</string>
+
+
+</resources>
